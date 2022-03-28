@@ -11,6 +11,25 @@ body{
     background-position: center;
     font-family: sans-serif;
 }
+.avisoCookies{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 15px;
+    background-color:black;
+    color: white;
+    width: 100vw;
+    text-align: center;
+}
+.avisoCookies span{
+    background-color: red;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 6px;
+    margin-left: 15px;
+    cursor: pointer;
+}
 #Contenedor{
     width: 1450px;
     margin: 1.5em auto;
