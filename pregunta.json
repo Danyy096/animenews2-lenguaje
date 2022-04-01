@@ -127,4 +127,12 @@
         "pregunta":"Cuál es el mejor personaje de anime de todos los tiempos?",
         "mensaje":"Sean serios"
     }
+    {
+        "id":17,
+        "name":"Rodrigo Azul",
+        "email":"rodriblue@outlook.com",
+        "telefono":"9987655679",
+        "pregunta":"",
+        "mensaje":"Goku y siempre Goku"
+    }
 ]
