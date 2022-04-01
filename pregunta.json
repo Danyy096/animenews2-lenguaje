@@ -87,4 +87,12 @@
         "pregunta": "",
         "mensaje":"Finalizará en peli amigo"
     }
+    {
+        "id":12,
+        "name":"Tony Rogers",
+        "email":"vengador3000@gmail.com",
+        "telefono":"",
+        "pregunta": "Saben si ya salió Komi-san audio español en alguna página?",
+        "mensaje":"No tengo dinero para Netfilx xD"
+    }
 ]
