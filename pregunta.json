@@ -111,4 +111,12 @@
         "pregunta": "¿Animes Románticos nuevos?",
         "mensaje":"Diganme algunos porfaaa"
     }
+    {
+        "id":15,
+        "name":"usuario_desconocido",
+        "email":"sergiopez@outlook.com",
+        "telefono":"9986653001",
+        "pregunta": "",
+        "mensaje":"Gracias por las recomendaciones, un saludo"
+    }
 ]
