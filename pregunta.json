@@ -55,4 +55,12 @@
         "pregunta":"Sin spoilers, ¿Re Zero es entretenido?",
         "mensaje":"Hace rato que pienso verlo, pero no me convence todavía"
     }
+    {
+        "id":8,
+        "name":"EstrellitaDeMAr",
+        "email":"starfire@outlook.com",
+        "telefono":"",
+        "pregunta": "",
+        "mensaje":"Recomienden páginas para ver anime porfa"
+    }
 ]
