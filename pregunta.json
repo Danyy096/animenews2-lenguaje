@@ -60,7 +60,7 @@
         "name":"EstrellitaDeMAr",
         "email":"starfire@outlook.com",
         "telefono":"",
-        "pregunta": "",
+        "pregunta":"",
         "mensaje":"Recomienden páginas para ver anime porfa"
     }
     {
@@ -68,7 +68,7 @@
         "name":"Elsa Pato",
         "email":"congelada34@outlook.com",
         "telefono":"",
-        "pregunta": "Alguien sabe que animes salen este verano?",
+        "pregunta":"Alguien sabe que animes salen este verano?",
         "mensaje":"Estas vacaciones tendré tiempo libre"
     }
     {
@@ -76,7 +76,7 @@
         "name":"Cabeza de Serenito",
         "email":"srsarcasmo@gmail.com",
         "telefono":"9981234567",
-        "pregunta": "¿Es cierto que SNK no finaliza esta temporada?",
+        "pregunta":"¿Es cierto que SNK no finaliza esta temporada?",
         "mensaje":"tengo dudas ayuda"
     }
     {
@@ -84,7 +84,7 @@
         "name":"Angela89",
         "email":"A898989@gmail.com",
         "telefono":"9987654302",
-        "pregunta": "",
+        "pregunta":"",
         "mensaje":"Finalizará en peli amigo"
     }
     {
@@ -92,7 +92,7 @@
         "name":"Tony Rogers",
         "email":"vengador3000@gmail.com",
         "telefono":"",
-        "pregunta": "Saben si ya salió Komi-san audio español en alguna página?",
+        "pregunta":"Saben si ya salió Komi-san audio español en alguna página?",
         "mensaje":"No tengo dinero para Netfilx xD"
     }
     {
@@ -100,7 +100,7 @@
         "name":"FranGOD",
         "email":"",
         "telefono":"9984561305",
-        "pregunta": "",
+        "pregunta":"",
         "mensaje":"Que buena página, me resolvieron mis dudas sin preguntar jaja"
     }
     {
@@ -108,7 +108,7 @@
         "name":"Alejandra Salazar",
         "email":"Alesita723@gmail.com",
         "telefono":"9988864022",
-        "pregunta": "¿Animes Románticos nuevos?",
+        "pregunta":"¿Animes Románticos nuevos?",
         "mensaje":"Diganme algunos porfaaa"
     }
     {
@@ -116,7 +116,15 @@
         "name":"usuario_desconocido",
         "email":"sergiopez@outlook.com",
         "telefono":"9986653001",
-        "pregunta": "",
+        "pregunta":"",
         "mensaje":"Gracias por las recomendaciones, un saludo"
+    }
+    {
+        "id":16,
+        "name":"Edu Jimenez",
+        "email":"eduardoJS@gmail.com",
+        "telefono":"",
+        "pregunta":"Cuál es el mejor personaje de anime de todos los tiempos?",
+        "mensaje":"Sean serios"
     }
 ]
