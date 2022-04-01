@@ -71,4 +71,12 @@
         "pregunta": "Alguien sabe que animes salen este verano?",
         "mensaje":"Estas vacaciones tendré tiempo libre"
     }
+    {
+        "id":10,
+        "name":"Cabeza de Serenito",
+        "email":"srsarcasmo@gmail.com",
+        "telefono":"9981234567",
+        "pregunta": "¿Es cierto que SNK no finaliza esta temporada?",
+        "mensaje":"tengo dudas ayuda"
+    }
 ]
