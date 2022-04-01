@@ -5,9 +5,22 @@
         "email":"dreyes@gmail.com",
         "telefono":"9982933726",
         "pregunta":"¿quien es la mejor waifu tsundere?",
-        "mensaje":"quiero saber quienes es la mejor waifu tsundere porque para mi son castrosos :V" 
+        "mensaje":"quiero saber quienes es la mejor waifu tsundere porque para mi son castrosos :V"
     }
     {
-        
+        "id":2,
+        "name":"usuario_desconocido",
+        "email":"juanito@gmail.com",
+        "telefono":"9986789534",
+        "pregunta":"¿Alguien sabe donde puedo ver Kimetsu temporada 2?",
+        "mensaje":"Pasa que no encuentro una buena página ya que ninguna me carga"
+    }
+    {
+        "id":2,
+        "name":"usuario_desconocido",
+        "email":"juanito@gmail.com",
+        "telefono":"9986789534",
+        "pregunta":"¿Alguien sabe donde puedo ver Kimetsu temporada 2?",
+        "mensaje":"Pasa que no encuentro una buena página ya que ninguna me carga"
     }
 ]
