@@ -79,4 +79,12 @@
         "pregunta": "¿Es cierto que SNK no finaliza esta temporada?",
         "mensaje":"tengo dudas ayuda"
     }
+    {
+        "id":11,
+        "name":"Angela89",
+        "email":"A898989@gmail.com",
+        "telefono":"9987654302",
+        "pregunta": "",
+        "mensaje":"Finalizará en peli amigo"
+    }
 ]
