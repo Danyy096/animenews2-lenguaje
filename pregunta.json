@@ -31,4 +31,12 @@
         "pregunta":"¿Cuando se estrena Dragon Ball Super Super Hero?",
         "mensaje": ""
     }
+    {
+        "id":5,
+        "name":"Alexandra RZ",
+        "email":"AlexaRZ@outlook.com",
+        "telefono":"9985624396",
+        "pregunta":"algun anime isekai bueno?",
+        "mensaje":""
+    }
 ]
