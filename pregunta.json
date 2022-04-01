@@ -135,4 +135,12 @@
         "pregunta":"",
         "mensaje":"Goku y siempre Goku"
     }
+    {
+        "id":18,
+        "name":"Arturo Master",
+        "email":"fateforever@outlook.com",
+        "telefono":"9983010474",
+        "pregunta":"¿Los animes nuevos salen aquí al mismo tiempo que en su país de origen?",
+        "mensaje":"Es decir, si la fecha de estrenos es igual para todo país"
+    }
 ]
