@@ -63,4 +63,12 @@
         "pregunta": "",
         "mensaje":"Recomienden páginas para ver anime porfa"
     }
+    {
+        "id":9,
+        "name":"Elsa Pato",
+        "email":"congelada34@outlook.com",
+        "telefono":"",
+        "pregunta": "Alguien sabe que animes salen este verano?",
+        "mensaje":"Estas vacaciones tendré tiempo libre"
+    }
 ]
