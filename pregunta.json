@@ -143,4 +143,12 @@
         "pregunta":"¿Los animes nuevos salen aquí al mismo tiempo que en su país de origen?",
         "mensaje":"Es decir, si la fecha de estrenos es igual para todo país"
     }
+    {
+        "id":19,
+        "name":"Cindy Entes",
+        "email":"cindycindy@gmail.com",
+        "telefono":"9982009247",
+        "pregunta":"El Retumbar será en dibujado o CGI?",
+        "mensaje":""
+    }
 ]
