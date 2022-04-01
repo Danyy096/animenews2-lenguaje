@@ -151,4 +151,12 @@
         "pregunta":"El Retumbar será en dibujado o CGI?",
         "mensaje":""
     }
+    {
+        "id":20,
+        "name":"usuario_desconocido",
+        "email":"anonimous@outlook.com",
+        "telefono":"",
+        "pregunta":"Es cierto que añadirán títeres a un anime? O_o",
+        "mensaje":"Por cierto, buena página"
+    }
 ]
