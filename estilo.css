@@ -91,7 +91,7 @@ img{
 }
 #Contenido{
     height: 165%;
-    display: flex;
+    width: 98%;
     margin: 75px;
     margin: 1em;
 }
